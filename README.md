@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angeloseby&label=Profile%20views&color=0e75b6&style=flat" alt="angeloseby" /> </p>
 
-- 🔭 I’m currently working on **Pragnya**
+- 🔭 I’m currently working on **Malayalam NLP**
 
 - 🌱 I’m currently learning **Brain Computer Interface**
 
