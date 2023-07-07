@@ -1,4 +1,9 @@
-[![MasterHead](https://www.linkedin.com/in/angeloseby/overlay/background-image/)](https://angeloseby.live)
+<div align="center" >
+  <a href="https://angeloseby.live./">
+  <img  width="100%" src="https://media.licdn.com/dms/image/D5616AQFOGdSAwxOpRQ/profile-displaybackgroundimage-shrink_200_800/0/1672753711065?e=2147483647&v=beta&t=KGHyjqjY-JGKXrQn6NQwWaz_f4xUHlUF_A02_QirAHA"
+       alt="head" /></a>
+</div>
+
 <h1 align="center">Hi 👋, I'm Angelo Seby</h1>
 <h3 align="center">Flutter & ML Alchemist, Crafting Aesthetic Code</h3>
 
